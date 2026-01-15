@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World,%20I'm%20Akhil!&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Dev&descAlignY=51&descAlign=50" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=NASA-backed+Researcher+%F0%9F%9A%80;MMaster's+in+Data+Science+(4.0+GPA)+%F0%9F%8E%93;Ex-TCS+Systems+Engineer+%F0%9F%92%BB;Building+Scalable+AI+Pipelines+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=NASA-backed+Researcher+%F0%9F%9A%80;  Master's+in+Data+Science+(4.0+GPA)+%F0%9F%8E%93;Ex-TCS+Systems+Engineer+%F0%9F%92%BB;Building+Scalable+AI+Pipelines+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
