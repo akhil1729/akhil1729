@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hello%20World,%20I'm%20Akhil!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Dev&descAlignY=51&descAlign=50" />
 
