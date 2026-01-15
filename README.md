@@ -49,11 +49,13 @@ gantt
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dakhil1729%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" height="180" alt="stats graph" />
-  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dakhil1729%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="180" alt="languages graph" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil1729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
 
 <div align="center">
-  <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dakhil1729%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil1729&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
 </div>
 
 ---
