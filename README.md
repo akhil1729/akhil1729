@@ -16,7 +16,7 @@
 
 ---
 
-### 🗺️ My Journey (Visualized)
+### 🗺️ My Journey
 ```mermaid
 gantt
     title Professional Timeline (2021 - Present)
