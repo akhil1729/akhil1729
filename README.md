@@ -30,7 +30,8 @@ gantt
     
     section Research & Data
     NASA (Research Asst)   :crit,    res1, 2024-08, 2025-08
-    Health Tech Alley      :active,  res2, 2025-09, 2026-01
+    Health Tech Alley      :done,  res2, 2025-09, 2026-01
+    Platinum Business Services      :active,  res3, 2026-02, 2026-03
     
     section Education
     MS Data Science (UMBC) :active,  edu1, 2024-01, 2025-12
