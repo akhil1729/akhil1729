@@ -26,9 +26,9 @@ gantt
     section Work Experience
     TCS (Systems Eng)      :done,    job1, 2021-09, 2024-05
     Ardent Privacy (Intern):done,    job2, 2024-09, 2024-12
-    Cyber Pack (AI Dev)    :active,  job3, 2025-01, 2025-12
-    Health Tech Alley      :done,  res2, 2025-09, 2026-01
-    Platinum Business Services      :active,  res3, 2026-02, 2026-03
+    Cyber Pack (AI Dev)    :done,  job3, 2025-01, 2025-12
+    Health Tech Alley      :done,  job4, 2025-09, 2026-01
+    Platinum Business Services      :active,  job5, 2026-02, 2026-03
     
     section Research & Data
     NASA (Research Asst)   :crit,    res1, 2024-08, 2025-08
