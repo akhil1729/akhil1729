@@ -34,7 +34,8 @@ gantt
     NASA (Research Asst)   :crit,    res1, 2024-08, 2025-08
     
     section Education
-    MS Data Science (UMBC) :active,  edu1, 2024-01, 2025-12
+    MS Data Science (UMBC) :done,  edu1, 2024-01, 2025-12
+    BTech Information Technology (SNIST) :done,  edu2, 2017-08, 2021-07
 ```
 
 ---
